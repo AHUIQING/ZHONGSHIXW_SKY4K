@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC | BNC |  |
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=NHTD_g1LYOM
+http://treinandoseo.esy.es/seo-panel/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=NHTD_g1LYOM
